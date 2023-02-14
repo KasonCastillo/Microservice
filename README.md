@@ -1,4 +1,3 @@
-# Microservice
 # Microservice for clinical trial database
 REQUEST DATA:
 	The data will be requested through a file named database.txt
